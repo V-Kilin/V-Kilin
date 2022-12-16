@@ -1,5 +1,5 @@
 # Hi I'm Vladimir!
-## Front - end developer.
+## Frontend developer.
 ### I work in technology stack: HTML/CSS, JavaScript, Git.
 ### Contact with me:
 - vova.kilin9@mail.ru
